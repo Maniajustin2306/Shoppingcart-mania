@@ -1,0 +1,17 @@
+
+body{
+	margin: 50px;
+}
+
+.card-style{
+	width: 100%;
+	height: 50vh;
+}
+
+.nav-style{
+	margin-left: 10px;
+}
+
+.link-style{
+	text-decoration: none;
+}
